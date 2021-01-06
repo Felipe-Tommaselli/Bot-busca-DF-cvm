@@ -11,6 +11,7 @@ Simples assim. Apenas é necessario ter o Google Chrome e o python instalado, al
 
 # Uso do bot
 É necessario apenas rodar o script em python (lembre que seu computador deve ter o python 3 instalado para isso). Para isso, com o arquivo ja adicionado ao seu computador, apenas sera necessario clicar em seu icone ou através do prompt de comando. https://cursos.alura.com.br/forum/topico-executar-o-programa-em-python3-pelo-prompt-de-comando-83408#:~:text=Para%20executar%20o%20c%C3%B3digo%2C%20precisamos,onde%20se%20encontra%20o%20arquivo.&text=Obrigado%20pelo%20retono!,py%20(enter)%20e%20funcionou!
+
 O programa fara algumas perguntas como o nome da empresa, e esta deve ser digitada corretamente caso contrario pode ocorrer uma busca incorreta, e a data de inicio da procura. Alem disso, sera necessario fazer algumas confirmações com quanto ao tipo de arquivo procurado, por default DFP. Logo após isso o bot abrirá as janelas e realizará as instruções, forneceno a pagina final, onde o usuario pode escolher como proceder com as informações. Alem disso, caso a pagina fique aberta por mais de 30 segundos, o bot perguntara se o usuario gostaria que o arquivo em .zip com as informações seja salvo.
 
 # Para desenvolvedores:
