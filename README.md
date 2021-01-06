@@ -5,6 +5,7 @@ Programa de automatização em python com o objetivo de buscar as Demonstraçoes
 Simples assim. Apenas é necessario ter o Google Chrome instalado e o chromeriver.exe deixado no repositório. 
 * Caso não seja possivel fazer sua instalação, devido a algum erro, pelo arquivo fornecido acredito que o site https://chromedriver.chromium.org/downloads. 
 * Outra possivel fonte de erro (apenas caso não tenha funcionado o arquivo disponilizado) é uma incopatibilidade de versão. Acessando os tres pontinhos no canto superior direito do chrome > clicando em "Configurações" > descendo a barra até "Sobre o Google Chrome" é possivel ver a versão do seu google chrome. Desse modo, caso perceba que sua versão não cofdiz com o chrome driver fornecido, apenas instale a versão igual no site deixado acima.
+
 **Não se preocupe! Não temos acesso aos seus dados, eles ficam salvos no seu computador**
 
 # Uso do bot
