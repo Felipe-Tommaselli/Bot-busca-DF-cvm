@@ -13,7 +13,7 @@ Simples assim. Apenas é necessario ter o Google Chrome instalado e o chromerive
 O programa fara algumas perguntas como o nome da empresa, e esta deve ser digitada corretamente caso contrario pode ocorrer uma busca incorreta, e a data de inicio da procura. Alem disso, sera necessario fazer algumas confirmações com quanto ao tipo de arquivo procurado, por default DFP. Logo após isso o bot abrirá as janelas e realizará as instruções, forneceno a pagina final, onde o usuario pode escolher como proceder com as informações. Alem disso, caso a pagina fique aberta por mais de 30 segundos, o bot perguntara se o usuario gostaria que o arquivo em .zip com as informações seja salvo.
 
 # Para desenvolvedores:
-* Os códigos do Python estão na pasta PythonScripts;
+* O código em Python esta no repositório em bot_code.py;
 * Você precisará baixar o chromedriver e colocar ele na pasta em que estiver rodando o código (ou adicionar ao PATH);
 * As bibliotecas de python necessárias são a **selenium**, **time** e  **datetime**. Use o pip install para a instalação delas;
 * O codigo foi estruturado em um formato de blocos try/except, dessa forma é possivel identificar em que momento o bot esta exibindo algum erro sem interromper seu funcionamento;
