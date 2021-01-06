@@ -24,7 +24,9 @@ if input('Deseja manter a categoria de pesquisa como DFP?(S/N) ').upper() == 'N'
     category = input('Digite o nome da categoria desejada: ')
 else:
     category = 'DFP'
-
+    
+# ! ALTERE PARA O PATH DO SEU CHROMEDRIVER
+    
 PATH = r'C:/Users/Tommasellk/FELIPE/bots/chromedriver.exe'
 
 driver = webdriver.Chrome(PATH)
